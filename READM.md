@@ -1,0 +1,10 @@
+- Bacon
+- Eggs
+- Potatos
+- Oranges
+- Beers
+- Ramens
+- Beef
+- Flowers
+- Bath Towels
+- Onions
