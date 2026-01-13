@@ -8,3 +8,7 @@
 - Flowers
 - Bath Towels
 - Onions
+- Apples
+- Sausages
+- Luncheon meat
+- Silk noodles
